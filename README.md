@@ -51,3 +51,4 @@ Anpassen, sobald sich daran etwas ändert, insbesondere bei:
 - **Konten**, Freundeslisten oder Chat
 - einem **Wechsel des Hostings** oder der Server-Region oder neuen Drittanbietern
 - **neuen Berechtigungen** (z.B. Mikrofon, Kontakte, Fotos)
+- einem **Umzug des Herausgebers** in ein anderes Land. Heute: Hamburg (DSGVO, Aufsicht HmbBfDI). Geplant ist der Umzug in die Schweiz um Herbst 2027; dann das Schweizer DSG neben der DSGVO nennen, den EDÖB als Behörde angeben und prüfen, ob ein EU-Vertreter nötig ist (Art. 27 DSGVO).
