@@ -6,7 +6,9 @@ Statische Rechtstexte für die App **catch.** (`com.turfgames.app`, Android und 
 
 - [`privacy-policy/index.html`](privacy-policy/index.html) — Datenschutzerklärung (Deutsch)
 - [`privacy-policy/en.html`](privacy-policy/en.html) — Privacy Policy (English)
-- [`privacy-policy/style.css`](privacy-policy/style.css) — Gestaltung in den Farben der App (für beide Sprachen)
+- [`privacy-policy/style.css`](privacy-policy/style.css) — Gestaltung in den Farben der App (für alle Seiten)
+- [`support/index.html`](support/index.html) — Support mit Kontakt und häufigen Fragen (Deutsch)
+- [`support/en.html`](support/en.html) — Support (English)
 
 ## Veröffentlichen mit GitHub Pages
 
@@ -18,6 +20,8 @@ Statische Rechtstexte für die App **catch.** (`com.turfgames.app`, Android und 
 4. Nach dem Deploy sind die Seiten erreichbar unter:
    - Datenschutz DE: `https://jerdna3.github.io/catchme-legal/privacy-policy/`
    - Datenschutz EN: `https://jerdna3.github.io/catchme-legal/privacy-policy/en.html`
+   - Support DE: `https://jerdna3.github.io/catchme-legal/support/`
+   - Support EN: `https://jerdna3.github.io/catchme-legal/support/en.html`
 
 ## Wo die URLs eingetragen sind
 
@@ -26,6 +30,7 @@ Statische Rechtstexte für die App **catch.** (`com.turfgames.app`, Android und 
   https://jerdna3.github.io/catchme-legal/privacy-policy/en.html
   ```
 - **App Store Connect → App-Datenschutz:** pro Sprache, Englisch `en.html`, Deutsch die Hauptseite.
+- **App Store Connect → Support-URL** (Pflicht): pro Sprache die Support-Seite, Englisch `support/en.html`, Deutsch `support/`.
 - **In der App:** Link auf der Startseite, je nach Sprache der App (`apps/mobile` im Repo CatchMe).
 
 ## Bei Änderungen
